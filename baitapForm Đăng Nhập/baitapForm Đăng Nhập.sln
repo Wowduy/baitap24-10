@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitapForm Đăng Nhập", "baitapForm Đăng Nhập\baitapForm Đăng Nhập.csproj", "{56D5C687-8259-4420-B221-265A35F6B289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D5C687-8259-4420-B221-265A35F6B289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D5C687-8259-4420-B221-265A35F6B289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D5C687-8259-4420-B221-265A35F6B289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D5C687-8259-4420-B221-265A35F6B289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A260B32B-A6F4-4153-BF04-980E2963D193}
+	EndGlobalSection
+EndGlobal
